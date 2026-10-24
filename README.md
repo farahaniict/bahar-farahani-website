@@ -40,3 +40,20 @@ Before publication, obtain Bahar's approval for her portrait and biographical co
 Version 6 changes: smaller hero name, Bahar Farahani, PhD; MCSoC TPC 2024–Present per user update; combined email addresses under one Email label.
 
 Version 7: hero displays Bahar Farahani in one consistent upright serif typeface and color; PhD is intentionally smaller.
+
+## Color theme (v8)
+Warm rose/pink palette in light mode and deep plum with rose accents in dark mode. Both themes remain available via the toggle.
+
+## Yellow/gold edition
+This is a golden-yellow light/dark color variation, with the same content and both locally bundled book covers.
+
+
+## Orange palette (v12)
+Orange / terracotta theme, with matching light and dark appearances. Includes the two locally stored original book-cover images.
+
+
+## Jade theme (v13)
+This version uses a jade-green palette with matching light/dark modes. Exact local book covers and all site content are retained.
+
+
+Theme behavior: light mode is the default for new visitors, regardless of system color scheme. Users may switch to dark mode; their explicit choice is remembered in the same browser.

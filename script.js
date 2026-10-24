@@ -8,7 +8,7 @@
     toggle?.setAttribute('title', dark ? 'Switch to light mode' : 'Switch to dark mode');
     const label = toggle?.querySelector('.theme-label');
     if (label) label.textContent = dark ? 'Light' : 'Dark';
-    if (themeMeta) themeMeta.content = dark ? '#0a1626' : '#f5f9fd';
+    if (themeMeta) themeMeta.content = dark ? '#102720' : '#f5faf8';
   };
   syncTheme();
   toggle?.addEventListener('click', () => {
