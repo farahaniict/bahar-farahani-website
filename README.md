@@ -57,3 +57,5 @@ This version uses a jade-green palette with matching light/dark modes. Exact loc
 
 
 Theme behavior: light mode is the default for new visitors, regardless of system color scheme. Users may switch to dark mode; their explicit choice is remembered in the same browser.
+
+Version 17: Removed section numbers and changed professional heading to Assistant Professor of Computer Engineering.
